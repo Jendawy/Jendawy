@@ -39,13 +39,31 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 </div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<div align="left">
+
+  <!-- Secure Software Development -->
+  <a href="https://coursera.org/share/2c2fe4f70b62818976a62772dfb4cf93" target="_blank">
+    <img src="https://img.shields.io/badge/-Requirements_Gathering_for_Secure_Software_Development-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+  </a>
+
+  <!-- Requirements Elicitation -->
+  <a href="https://coursera.org/share/409991d686e510eee44e76895258fb85" target="_blank">
+    <img src="https://img.shields.io/badge/-Requirements_Elicitation:_Artifact_&_Stakeholder_Analysis-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+  </a>
+
+  <!-- Requirements Specification -->
+  <a href="https://coursera.org/share/4406e8084583c6c79ccaba88ec86bc15" target="_blank">
+    <img src="https://img.shields.io/badge/-Requirements_Specifications:_Goals_&_Conflict_Analysis-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+  </a>
+
+  <!-- UX Research -->
+  <a href="https://coursera.org/share/e11fdfbc2830145c41a84dcacbcedf3a" target="_blank">
+    <img src="https://img.shields.io/badge/-Conduct_UX_Research_&_Test_Early_Concepts-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+  </a>
+
 </div>
+
 
 ## Projects
 - Detection Lab
