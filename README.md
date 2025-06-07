@@ -68,7 +68,7 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- Requirements Gathering for Secure Software Development | <a href="https://coursera.org/share/2c2fe4f70b62818976a62772dfb4cf93">Coursera Project</a> |
+- Requirements Gathering for Secure Software Development
 - TCP / IP Protocol Debugging 
 - Traffic inspection & Threat detection 
 - Packet Analysis & intrusion Detection
