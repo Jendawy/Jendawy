@@ -1,4 +1,4 @@
-# Hello, I'm Jendawy
+![image](https://github.com/user-attachments/assets/2a143c16-c1ba-410b-bcd4-37e0905304cb)# Hello, I'm Jendawy
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am currently pursuing my 4th year in Software Engineering with a profound interest in technology and a dedication to solving complex problems.
@@ -17,6 +17,8 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 | Traffic inspection and threat detection                | WireShark |
 | TCP / IP Protocol Debugging                            | WireShark |
 | Scripting and Automation for Threat Mitigation         | WireShark |
+| Backend development using **Java**                     | TBD       | 
+| Database management systems using **SQL**              | TBD       | 
 
 ### Network
 <div>
