@@ -67,6 +67,10 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 
 
 ## Projects
+- Financial Tracking website ( SaaS ) 
+- Agile management tool ( SaaS ) 
+- Task Managemt ( Java ) ( Local ) 
+-
 - Detection Lab
 - SOC Automation Project
 - Requirements Gathering for Secure Software Development
