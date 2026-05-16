@@ -6,7 +6,7 @@
 
 *I engineer full-stack products — from database to pixel — that are **fast**, **scalable**, and ship on time.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-4f8fff?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-4f8fff?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-url.com](https://x-portfolio-am3mizk55-jendawys-projects.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jendawy/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jendawy@outlook.com)
 
