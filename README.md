@@ -1,79 +1,118 @@
-# Hello, I'm Jendawy
+<div align="center">
 
-I am currently pursuing my 4th year in Software Engineering with a profound interest in technology and a dedication to solving complex problems.
+# 👋 Hi, I'm Jendawy
 
-## Objective
-My journey in Software Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+### Software Engineer · Full-Stack Developer
 
-## Skills
+*I engineer full-stack products — from database to pixel — that are **fast**, **scalable**, and ship on time.*
 
-
-| Skill                                         |                  Associated Projects                     |
-|-----------------------------------------------|----------------------------------------------------------|
-| Requirements Gathering for Secure Software Development | <a href="https://coursera.org/share/2c2fe4f70b62818976a62772dfb4cf93">Coursera Project</a> |Lab</a>|
-| Netweork Protocol Analysis                             | WireShark |
-| Packet Analysis and intrusion detection                | WireShark |
-| Traffic inspection and threat detection                | WireShark |
-| TCP / IP Protocol Debugging                            | WireShark |
-| Scripting and Automation for Threat Mitigation         | WireShark |
-| Backend development using **Java**                     | TBD       | 
-| Database management systems using **SQL**              | TBD       | 
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-
-<div align="left">
-
-  <!-- Secure Software Development -->
-  <a href="https://coursera.org/share/2c2fe4f70b62818976a62772dfb4cf93" target="_blank">
-    <img src="https://img.shields.io/badge/-Requirements_Gathering_for_Secure_Software_Development-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  </a>
-
-  <!-- Requirements Elicitation -->
-  <a href="https://coursera.org/share/409991d686e510eee44e76895258fb85" target="_blank">
-    <img src="https://img.shields.io/badge/-Requirements_Elicitation:_Artifact_&_Stakeholder_Analysis-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  </a>
-
-  <!-- Requirements Specification -->
-  <a href="https://coursera.org/share/4406e8084583c6c79ccaba88ec86bc15" target="_blank">
-    <img src="https://img.shields.io/badge/-Requirements_Specifications:_Goals_&_Conflict_Analysis-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  </a>
-
-  <!-- UX Research -->
-  <a href="https://coursera.org/share/e11fdfbc2830145c41a84dcacbcedf3a" target="_blank">
-    <img src="https://img.shields.io/badge/-Conduct_UX_Research_&_Test_Early_Concepts-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-4f8fff?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jendawy/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jendawy@outlook.com)
 
 </div>
 
+---
 
-## Projects
-- Financial Tracking website ( SaaS ) 
-- Agile management tool ( SaaS ) 
-- Task Managemt ( Java ) ( Local ) 
--
-- Detection Lab
-- SOC Automation Project
-- Requirements Gathering for Secure Software Development
-- TCP / IP Protocol Debugging 
-- Traffic inspection & Threat detection 
-- Packet Analysis & intrusion Detection
+## 🚀 About Me
+
+I'm a software engineer with **5+ years** of hands-on experience building products end-to-end — from architecting databases and APIs to crafting polished user interfaces. I care deeply about clean code, performance, and shipping real value.
+
+- 🔭 Currently building animated, interactive web experiences
+- 🌱 Always learning — recently exploring AI integration & vector search
+- 💡 Passionate about clean architecture, great UX, and open source
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🔄 [DevFlow](#)
+A developer workflow automation tool with CI/CD integration and real-time collaboration features.
+`React` · `Node.js` · `Socket.io`
+
+### 🧠 [NeuroSearch](#)
+AI-powered semantic search engine built on vector embeddings and LLM APIs.
+`Python` · `FastAPI` · `OpenAI`
+
+### 🎨 [CloudCanvas](#)
+Collaborative design tool with real-time syncing, built as a progressive web app.
+`Next.js` · `WebSockets` · `Canvas API`
+
+### 💰 [FinTrack](#)
+Personal finance tracking app with real-time expense categorisation, budget alerts, and analytics dashboards.
+`React` · `Node.js` · `PostgreSQL` · `Chart.js`
+
+### 📋 [AgileFlow](#)
+Modern agile project management platform inspired by Monday.com — drag-and-drop boards, sprint planning, real-time collaboration.
+`React` · `TypeScript` · `WebSockets` · `PostgreSQL`
+
+### ☀️ [WeatherWise](#)
+Smart weather app that fetches real-time data and recommends personalised activities based on conditions.
+`React` · `OpenWeatherMap API` · `Geolocation`
+
+> 💡 See all my work on my [portfolio website](https://your-portfolio-url.com)
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Conduct UX Research and Test Early Concepts | **Google** |
+| Managing Emotions in Times of Uncertainty & Stress | **Yale University** |
+| Critical Thinking Skills for the Professional | **UC Davis** |
+| Requirements Specifications: Goals and Conflict Analysis | **Coursera** |
+| Requirements Elicitation: Artifact and Stakeholder Analysis | **University of Colorado** |
+| Requirements Gathering for Secure Software Development | **Coursera** |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jendawy&layout=compact&theme=tokyonight&hide_border=true&bg_color=03060f&title_color=4f8fff&text_color=8ba3c7)
+
+
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting projects, collaborations, and conversations.
+
+- 📧 **Email:** [Jendawy@outlook.com](mailto:Jendawy@outlook.com)
+- 💼 **LinkedIn:** [linkedin.com/in/jendawy](https://www.linkedin.com/in/jendawy/)
+- 🌐 **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jendawy&color=4f8fff&style=flat-square&label=Profile+Views)
+
+**⚡ Designed & built with care · Jendawy 2025**
+
+</div>
