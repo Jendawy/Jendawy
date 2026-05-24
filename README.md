@@ -105,7 +105,7 @@ I'm always open to interesting projects, collaborations, and conversations.
 
 - 📧 **Email:** [Jendawy@outlook.com](mailto:Jendawy@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/jendawy](https://www.linkedin.com/in/jendawy/)
--   🌐 **Portfolio:** [https://x-portfolio-am3mizk55-jendawys-projects.vercel.app/]()
+-   🌐 **Portfolio:** [[https://x-portfolio-am3mizk55-jendawys-projects.vercel.app/]()](https://x-portfolio-git-main-jendawys-projects.vercel.app/)
 
 ---
 
